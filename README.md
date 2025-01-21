@@ -50,5 +50,19 @@ This step ensures the necessary tools are installed to analyze traffic between A
 
 
 This screenshot demonstrates the configuration of an inbound security rule in Azure's NSG settings. The rule specifies source, destination, port range, and protocol to control incoming traffic. Here, a custom rule is being created to allow traffic on port 8080 using TCP, with a priority set to ensure proper rule enforcement. This setup is part of securing Azure virtual machines and managing access to services effectively.
-</p>
-<br />
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/dba43ee7-e3ce-4614-a345-5bcab335f8c2)
+
+
+
+
+
+
+This screenshot captures DNS queries and responses in Wireshark. It highlights the process of resolving domain names to IP addresses, a critical aspect of network communication. This analysis helps in troubleshooting DNS-related issues and understanding how name resolution works within a network environment."
+
