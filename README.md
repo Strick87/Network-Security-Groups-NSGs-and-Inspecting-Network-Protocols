@@ -30,26 +30,25 @@
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+![image](https://github.com/user-attachments/assets/4f1279e5-8f23-48b1-a5cd-73b43878973d)
+
+
+
+This screenshot showcases the initial setup of a Virtual Machine in Microsoft Azure. It highlights the configuration of essential details, such as the subscription, resource group, region, availability options, and security type. These settings determine how and where the VM will be deployed, ensuring it meets organizational and operational requirements.
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![image](https://github.com/user-attachments/assets/ebd7426c-f0f8-4a66-9c0f-9e7282026158)
+
+ This image shows the Wireshark setup process, with the installation wizard extracting files. Wireshark is a key tool used to capture and analyze network traffic, making it essential for monitoring communication between Azure Virtual Machines in this project."
+This step ensures the necessary tools are installed to analyze traffic between Azure Virtual Machines effectively.
+
+
+
+![image](https://github.com/user-attachments/assets/dca84d7a-0fce-4601-a3fa-db25f5c0870b)
+
+
+This screenshot demonstrates the configuration of an inbound security rule in Azure's NSG settings. The rule specifies source, destination, port range, and protocol to control incoming traffic. Here, a custom rule is being created to allow traffic on port 8080 using TCP, with a priority set to ensure proper rule enforcement. This setup is part of securing Azure virtual machines and managing access to services effectively.
 </p>
 <br />
